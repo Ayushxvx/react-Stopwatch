@@ -14,7 +14,7 @@ function NavBar(){
                 </a>
             </div>
             <div>
-                <a href="https://ayushxvx.github.io/Dark-portfolio" target="_blank" className="hover:text-white cursor-pointer">
+                <a href="https://ayushxvxportfolio.netlify.app/" target="_blank" className="hover:text-white cursor-pointer">
                 About Me
                 </a>
             </div>
